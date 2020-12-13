@@ -15,7 +15,7 @@
     stack: {
         language/framework: ['Java', 'PHP/Laravel', '(React|Angular) JS', '(Adonis|Express) JS', 'C/Arduino'],
         databases: ['sqlite', '(My|Postgre)SQL'],
-        deploy: ['AWS', 'Digital Ocean', 'Heroku','Vercle', 'Laravel Forge'],
+        deploy: ['AWS', 'Digital Ocean', 'Heroku','Vercel', 'Laravel Forge'],
         containerization: ['docker'],
         webservers: ['Apache', 'NGINX'],
     },
