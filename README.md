@@ -1,4 +1,4 @@
-### Hi There! 👋🏾 Welcome to my profile
+### Hi There! 👋🏾 🚀 Welcome to my profile
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/txsoura/)](https://www.linkedin.com/in/txsoura/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545984289149)](http://wa.me/5545984289149)
@@ -24,6 +24,26 @@
 
   return response.status(201).send();
 ```
+
+> I'm a young Software Developer in constant evolution, tired of making CRUD, i'm already participate in systems that are and/or have been used in Paraguay, Brazil, United States and Mozambique.
+
+> Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
+
+## Guidelines
+
+If you want to work with me or contribute in my repos, please read this guidelines. 
+
+> [API](https://github.com/txsoura/txsoura/blob/master/API.md)
+
+>Git
+
+>> [Commit](https://github.com/txsoura/txsoura/blob/master/git/Commit.md)
+
+>> [Branch](https://github.com/txsoura/txsoura/blob/master/git/Branch.md)
+
+>> [Issue](https://github.com/txsoura/txsoura/blob/master/git/Issue.md)
+
+
 
 <hr>
 <h1 align="center">
