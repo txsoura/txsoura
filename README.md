@@ -33,17 +33,7 @@
 
 If you want to work with me, contribute in my repos or know my git & code organization, please read this guidelines. 
 
-> [API](https://github.com/txsoura/txsoura/wiki/API)
-
->Git
-
->> [Commit](https://github.com/txsoura/txsoura/wiki/Commit)
-
->> [Branch](https://github.com/txsoura/txsoura/wiki/Branch)
-
->> [Issue](https://github.com/txsoura/txsoura/wiki/Issue)
-
-
+> [Wiki](https://github.com/txsoura/txsoura/wiki)
 
 <hr>
 <h1 align="center">
