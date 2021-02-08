@@ -31,7 +31,7 @@
 
 ## Guidelines
 
-If you want to work with me or contribute in my repos, please read this guidelines. 
+If you want to work with me, contribute in my repos or know my git & code organization, please read this guidelines. 
 
 > [API](https://github.com/txsoura/txsoura/blob/master/API.md)
 
