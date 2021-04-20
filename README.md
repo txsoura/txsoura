@@ -10,7 +10,7 @@
 ```javascript
   async user.index({
     name: 'Victor Tesoura Júnior',
-    age: 21,
+    age: 22,
     city: 'Foz do Iguaçu, PR, Brazil',
     stack: {
         language_framework: [ 'PHP/Laravel', '(React|Angular) JS', '(Adonis|Express) JS','Java', 'C/Arduino'],
