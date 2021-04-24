@@ -13,9 +13,9 @@
     age: 22,
     city: 'Foz do Iguaçu, PR, Brazil',
     stack: {
-        language_framework: [ 'PHP/Laravel', '(React|Angular) JS', '(Adonis|Express) JS','Java', 'C/Arduino'],
+        language_framework: [ 'PHP/Laravel', '(React|Angular) JS', '(Adonis|Express) JS','Java/Spring', 'C/Arduino'],
         databases: ['(My|Postgre)SQL','sqlite','Mongo'],
-        deploy: [ 'Digital Ocean', 'Heroku','Vercel', 'Laravel Forge','AWS̈́'],
+        deploy: [ 'Digital Ocean', 'Heroku','Vercel', 'Laravel Forge','AWS'],
         containerization: ['docker'],
         webservers: ['Apache', 'NGINX'],
     },
