@@ -7,6 +7,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/txsoura)](https://twitter.com/txsoura)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/txsoura)](https://www.instagram.com/txsoura)
 
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=txsoura.visitor-badge)](https://github.com/txsoura)
+[![GitHub followers](https://img.shields.io/github/followers/txsoura.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/txsoura?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/txsoura/txsoura.svg?style=social&label=Star&maxAge=2592000)](https://github.com/txsoura/txsoura/stargazers/)
+
 ```javascript
   async user.index({
     name: 'Victor Tesoura Júnior',
