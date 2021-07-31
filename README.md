@@ -42,11 +42,10 @@ If you want to work with me, contribute in my repos or know my git & code organi
 <hr>
 <h1 align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en" alt="txsoura" width="460px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="txsoura" height="180em"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8" height="180em">
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark" alt="txsoura" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark">
 </h1>
 
 #### Thank you! 🌴🍹
