@@ -16,9 +16,10 @@
     name: 'Victor Tesoura Júnior',
     age: 22,
     city: 'Foz do Iguaçu, PR, Brazil',
+    birth_place: 'Beira, Sofala, Mozambique',
     stack: {
-        language_framework: [ 'PHP/Laravel', '(React|Angular) JS', 'Express JS','Java/Spring', 'C/Arduino'],
-        databases: ['(My|Postgre)SQL','sqlite','Mongo'],
+        language_framework: [ 'PHP/Laravel', '(React/Next|Angular) JS', '(Express|Nest) JS','Java/Spring Boot', 'C/Arduino'],
+        databases: ['(My|Postgre)SQL','sqlite'],
         deploy: [ 'Digital Ocean', 'Heroku','Vercel', 'Laravel Forge','Netlify'],
         containerization: ['docker'],
         webservers: ['Apache', 'NGINX'],
