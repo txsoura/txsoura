@@ -1,5 +1,7 @@
 ### Hi There! 👋🏾 🚀 Welcome to my profile
 
+<a href="https://www.buymeacoffee.com/txsoura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 217px !important;" ></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/txsoura/)](https://www.linkedin.com/in/txsoura/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545984289149)](http://wa.me/5545984289149)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:txsoura@gmail.com)](mailto:txsoura@gmail.com)
@@ -48,7 +50,5 @@ If you want to work with me, contribute in my repos or know my git & code organi
   <br/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark" alt="txsoura" />
 </h1>
-
-<a href="https://www.buymeacoffee.com/txsoura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 #### Thank you! 🌴🍹
