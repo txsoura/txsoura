@@ -4,7 +4,7 @@
 
 > Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
-## Technology Stack
+## Technology Stacks
 Here some technologies i current work with:
 
 ### Front
@@ -35,11 +35,11 @@ Here some technologies i current work with:
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1463fb?style=for-the-badge&logo=vagrant&logoColor=fdfffc)&nbsp;
 
 ### Cloud
-![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
-![AWS](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
-![Nestify](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
-![Heroku](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0482fa?style=for-the-badge&logo=digitalOcean&logoColor=e7f7fb)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-fa9c08?style=for-the-badge&logo=amazon&logoColor=242d3c)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-3aaebb?style=for-the-badge&logo=netlify&logoColor=0c1c24)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-430498?style=for-the-badge&logo=heroku&logoColor=f7f0f9)&nbsp;
 
 ## Need me? Let's talk!
 
@@ -54,15 +54,6 @@ Here some technologies i current work with:
 <a href="https://www.youtube.com/channel/UCHb_sTQayBBtceQcVctFwyQ"><img src='https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=txsoura.visitor-badge)](https://github.com/txsoura)
 [![GitHub followers](https://img.shields.io/github/followers/txsoura.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/txsoura?tab=followers)
-
-```javascript
- 
-        deploy: [ 'Digital Ocean', 'Heroku','Vercel', 'Laravel Forge','Netlify'],
-        containerization: ['docker'],
- 
-```
-
-
 
 ## Guidelines
 
