@@ -77,4 +77,4 @@ If you would like to support me, click the button bellow:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
 </p>
 
-### Be water. Thank you! 🌴🍹
+### Be water. 🌴🍹
