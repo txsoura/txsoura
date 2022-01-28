@@ -4,7 +4,7 @@
 
 > Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
-### Need me? Let´s talk!
+## Need me? Let's talk!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/txsoura/)](https://www.linkedin.com/in/txsoura/)
@@ -51,13 +51,13 @@ If you would like to support me, click the button bellow:
 
 <a href="https://www.buymeacoffee.com/txsoura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 217px !important;" ></a>
 
-<hr>
-<h1 align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="txsoura" height="180em"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8" height="180em">
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark" alt="txsoura" />
-</h1>
+## Stats
 
-#### Thank you! 🌴🍹
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="txsoura"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark" alt="txsoura"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
+</p>
+
+### Thank you! 🌴🍹
