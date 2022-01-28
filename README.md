@@ -38,7 +38,7 @@
 
 ## Guidelines
 
-If you want to work with me, contribute in my repos or know my git & code organization, please read this guidelines. 
+If you want to contribute in my repos or know my git & code organization, please read this guidelines. 
 
 > [Wiki](https://github.com/txsoura/txsoura/wiki)
 
