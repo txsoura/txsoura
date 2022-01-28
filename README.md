@@ -4,6 +4,22 @@
 
 > Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
+## Technology Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=444)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
+<br/>
+![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+<br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-red?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+
+
 ## Need me? Let's talk!
 
 
