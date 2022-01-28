@@ -31,8 +31,8 @@ Here some technologies i current work with:
 ![NginX](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
 
 ### Virtualization/Containerization
-![Docker](https://img.shields.io/badge/-Apache-ac0a0d?style=for-the-badge&logo=apache&logoColor=060606)&nbsp;
-![Vagrant](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0c98e5?style=for-the-badge&logo=docker&logoColor=ecf7f9)&nbsp;
+![Vagrant](https://img.shields.io/badge/-Vagrant-1463fb?style=for-the-badge&logo=vagrant&logoColor=fdfffc)&nbsp;
 
 ### Cloud
 ![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
