@@ -54,8 +54,9 @@ If you would like to support me, click the button bellow:
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="txsoura"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark" alt="txsoura"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
 </p>
