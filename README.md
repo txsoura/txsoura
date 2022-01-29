@@ -67,14 +67,14 @@ If you would like to support me, click the button bellow:
 
 <a href="https://www.buymeacoffee.com/txsoura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 217px !important;" ></a>
 
-## Stats
+## Cards
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true"/>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
+
+<a href="https://app.daily.dev/txsoura"><img src="https://api.daily.dev/devcards/1f41c226e8db438c933fef75a7348b42.png?r=crs" width="400" alt="Victor Tesoura Júnior's Dev Card"/></a>
 
 ### Be water. 🌴🍹
