@@ -1,8 +1,14 @@
 # Hi There! 👋🏾 🚀
 
 > I'm a young Software Engineer in constant evolution, tired of making CRUD. I'm already participate in systems that are and/or have been used in Paraguay, Brazil, United States and Mozambique.
+> I have a little knowledge, and my biggest goal is to discover, learn and improve the world. May we should work together, to make it happen.
 
 > Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
+
+## Studies
+I'm currently learning Clojure, because always loved alghoritms, and may i should specialize in functional programming. 
+
+![Clojure](https://img.shields.io/badge/-Clojure-blue?style=for-the-badge&logo=clojure&logoColor=white)&nbsp;
 
 ## Technology Stacks
 Here some technologies i current work with:
