@@ -6,7 +6,7 @@
 > Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
 ## Studies
-I'm currently learning Clojure, because always loved alghoritms, and may i should specialize in functional programming. 
+I'm currently learning Clojure because always loved algorithms, and may I should specialize in functional programming.
 
 ![Clojure](https://img.shields.io/badge/-Clojure-blue?style=for-the-badge&logo=clojure&logoColor=white)&nbsp;
 
