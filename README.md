@@ -31,6 +31,7 @@ Here some technologies i current work with:
 ![Mysql](https://img.shields.io/badge/-MySQL-5483a1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-Sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-d92c22?style=for-the-badge&logo=redis&logoColor=636364)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### Server
 ![Apache](https://img.shields.io/badge/-Apache-ac0a0d?style=for-the-badge&logo=apache&logoColor=060606)&nbsp;
