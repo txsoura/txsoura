@@ -10,44 +10,6 @@ I'm currently learning Clojure because always loved algorithms, and may I should
 
 ![Clojure](https://img.shields.io/badge/-Clojure-blue?style=for-the-badge&logo=clojure&logoColor=white)&nbsp;
 
-## Technology Stacks
-Here some technologies i current work with:
-
-### Front
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=444)&nbsp;
-![NextJs](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-
-### Query Language
-![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-
-### Back
-![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=fbefec)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-6db340?style=for-the-badge&logo=spring&logoColor=f3faec)&nbsp;
-
-### Database
-![Postgresql](https://img.shields.io/badge/-PostgreSQL-346493?style=for-the-badge&logo=postgresql&logoColor=eaf0f2)&nbsp;
-![Mysql](https://img.shields.io/badge/-MySQL-5483a1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-d92c22?style=for-the-badge&logo=redis&logoColor=636364)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-### Server
-![Apache](https://img.shields.io/badge/-Apache-ac0a0d?style=for-the-badge&logo=apache&logoColor=060606)&nbsp;
-![NginX](https://img.shields.io/badge/-Nginx-0c944c?style=for-the-badge&logo=nginx&logoColor=effbf8)&nbsp;
-
-### Virtualization/Containerization
-![Docker](https://img.shields.io/badge/-Docker-0c98e5?style=for-the-badge&logo=docker&logoColor=ecf7f9)&nbsp;
-![Vagrant](https://img.shields.io/badge/-Vagrant-1463fb?style=for-the-badge&logo=vagrant&logoColor=fdfffc)&nbsp;
-
-### Cloud
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0482fa?style=for-the-badge&logo=digitalOcean&logoColor=e7f7fb)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-fa9c08?style=for-the-badge&logo=amazon&logoColor=242d3c)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-3aaebb?style=for-the-badge&logo=netlify&logoColor=0c1c24)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-430498?style=for-the-badge&logo=heroku&logoColor=f7f0f9)&nbsp;
-
 ## Need me? Let's talk!
 
 
@@ -81,7 +43,5 @@ If you would like to support me, click the button bellow:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=txsoura&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txsoura&layout=compact&theme=dark&langs_count=8">
-
-<a href="https://app.daily.dev/txsoura"><img src="https://api.daily.dev/devcards/1f41c226e8db438c933fef75a7348b42.png?r=crs" width="400" alt="Victor Tesoura Júnior's Dev Card"/></a>
 
 ### Be water. 🌴🍹
