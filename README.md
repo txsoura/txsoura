@@ -21,6 +21,7 @@ I'm currently learning Clojure because always loved algorithms, and may I should
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/txsoura)](https://www.instagram.com/txsoura)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://txsoura.medium.com)](https://txsoura.medium.com)
 [![Bluesky Badge](https://img.shields.io/badge/-BlueSky-blue?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/txsoura.com)](https://bsky.app/profile/txsoura.com)
+[![Mastodon Badge](https://img.shields.io/badge/-Mastodon-purple?style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.social/@txsoura)](https://mastodon.social/@txsoura)
 
 <a href="https://www.youtube.com/channel/UCHb_sTQayBBtceQcVctFwyQ"><img src='https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white'  alt='YouTube'/></a>
 [![GitHub followers](https://img.shields.io/github/followers/txsoura.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/txsoura?tab=followers)
