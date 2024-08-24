@@ -1,14 +1,9 @@
 # Hi There! 👋🏾 🚀
 
-> I'm a young Software Engineer in constant evolution, tired of making CRUD. I'm already participate in systems that are and/or have been used in Paraguay, Brazil, United States and Mozambique.
-> I have a little knowledge, and my biggest goal is to discover, learn and improve the world. May we should work together, to make it happen.
+> I'm a young software engineer in constant evolution and tired of making CRUD. I've already participated in systems that are and/or have been used in Paraguay, Brazil, the United States, and Mozambique.
+> I have little knowledge, and my biggest goal is to discover, learn, and improve the world. May we should work together, to make it happen.
 
-> Currently i'm seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
-
-## Studies
-I'm currently learning Clojure because always loved algorithms, and may I should specialize in functional programming.
-
-![Clojure](https://img.shields.io/badge/-Clojure-blue?style=for-the-badge&logo=clojure&logoColor=white)&nbsp;
+> Currently I'm seeking to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
 ## Need me? Let's talk!
 
@@ -28,13 +23,13 @@ I'm currently learning Clojure because always loved algorithms, and may I should
 
 ## Guidelines
 
-If you want to contribute in my repos or know my git & code organization, please read this guidelines. 
+If you want to contribute to my repos or know my git & code organization, please read these guidelines. 
 
 > [Wiki](https://github.com/txsoura/txsoura/wiki)
 
 ## Support
 
-If you would like to support me, click the button bellow:
+If you would like to support me, click the button below:
 
 <a href="https://www.buymeacoffee.com/txsoura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 217px !important;" ></a>
 
