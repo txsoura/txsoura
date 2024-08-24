@@ -5,12 +5,6 @@
 
 > Currently I'm seeking to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
-## Guidelines
-
-If you want to contribute to my repos or know my git & code organization, please read these guidelines. 
-
-> [Wiki](https://github.com/txsoura/txsoura/wiki)
-
 ## Support
 
 If you would like to support me, click the button below:
